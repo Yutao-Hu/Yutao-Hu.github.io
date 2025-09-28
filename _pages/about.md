@@ -1,8 +1,11 @@
 ---
-layout: archive
+permalink: /
 title: "🙌🏼 About Me"
-permalink: /about/
+excerpt: "About Me"
 author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
 I am a **Research Fellow at Nanyang Technological University (NTU)**, working with [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).  
