@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-hyt.png"
+  avatar           : "profile-hyt-new.png"
   name             : "Yutao Hu (胡雨涛) 🫧"
   pronouns         : # example: "she/her"  
   bio              : "Research Fellow"
