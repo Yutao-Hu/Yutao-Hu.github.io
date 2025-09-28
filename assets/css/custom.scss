@@ -1,0 +1,21 @@
+---
+# 这三条横杠是 front matter，告诉 Jekyll 这是一个 SASS 文件
+---
+
+/* 正文字体 */
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* 标题字体 */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', serif;
+}
+
+/* 代码块字体 */
+code, pre {
+  font-family: 'Fira Code', monospace;
+  font-size: 14px;
+}
