@@ -21,3 +21,53 @@ I received my Ph.D. from the School of Cyberspace Security, HUST in June 2024, a
 💌 **Contact:** yutaohu@hust.edu.cn
 
 ---
+
+## Publications {#publications}
+{%- assign selected_pubs = site.publications | where_exp: "p", "p.selected == true" -%}
+{%- if selected_pubs and selected_pubs.size > 0 -%}
+  {%- for post in selected_pubs -%}
+    {% include archive-single.html %}
+  {%- endfor -%}
+{%- else -%}
+  {%- for post in site.publications reversed limit:5 -%}
+    {% include archive-single.html %}
+  {%- endfor -%}
+{%- endif -%}
+<p><a href="{{ '/publications/' | relative_url }}">View all publications →</a></p>
+
+---
+
+## Talks {#talks}
+{%- for post in site.talks reversed limit:5 -%}
+  {% include archive-single.html %}
+{%- endfor %}
+<p><a href="{{ '/talks/' | relative_url }}">More talks →</a></p>
+
+---
+
+## Teaching {#teaching}
+{%- for post in site.teaching reversed limit:5 -%}
+  {% include archive-single.html %}
+{%- endfor %}
+<p><a href="{{ '/teaching/' | relative_url }}">All courses →</a></p>
+
+---
+
+## Portfolio {#portfolio}
+{%- for post in site.portfolio reversed limit:6 -%}
+  {% include archive-single.html %}
+{%- endfor %}
+<p><a href="{{ '/portfolio/' | relative_url }}">See more projects →</a></p>
+
+---
+
+## Blog {#blog}
+{%- for post in site.posts limit:5 -%}
+  {% include archive-single.html %}
+{%- endfor %}
+<p><a href="{{ '/year-archive/' | relative_url }}">All posts →</a></p>
+
+---
+
+## CV {#cv}
+You can find my full **CV** here: <a href="{{ '/cv/' | relative_url }}">CV →</a>
