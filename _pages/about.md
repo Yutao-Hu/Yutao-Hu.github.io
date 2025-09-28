@@ -12,12 +12,12 @@ I am a Research Fellow at Nanyang Technological University (NTU), working with [
 
 I received my Ph.D. from the School of Cyberspace Security, HUST in June 2024, advised by [Prof. Deqing Zou](http://faculty.hust.edu.cn/zoudeqing/zh_CN/index.htm) and [Assoc. Prof. Yueming Wu](https://wu-yueming.github.io/). Before that, I obtained my B.S. from China University of Geosciences (Wuhan) in 2019, mentored by [Prof. Jun Song](https://grzy.cug.edu.cn/songjun/zh_CN/index.htm).
 
-🌬 **Research Interests
+🌬 **Research Interests**
 - Software Engineering  
 - Software Security  
 - Large Language Models (LLMs)  
 - Software Engineering **for/with** AI  
 
-📫 **Contact:** yutaohu@hust.edu.cn
+💌 **Contact:** yutaohu@hust.edu.cn
 
 ---
