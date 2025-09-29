@@ -39,12 +39,13 @@ I received my Ph.D. from the School of Cyberspace Security, HUST in June 2024, a
 ## 🎓 Education
 {: #education }
 
-- *2019.9-2024.6*, **Ph.D.**, Cyberspace Security, School of Cyberspace Security, Huazhong University of Science and Technology (HUST) 
-- *2015.9-2019.6*, **B.S.**, Information Security, School of Computer Science, China University of Geosciences (Wuhan) 
+- *2019.9-2024.6*, **Ph.D.**, Cyberspace Security...
+- *2015.9-2019.6*, **B.S.**, Information Security...
 
 ---
 
-## Services {#Services}
+## Services
+{: #services }
 {%- for post in site.teaching reversed limit:5 -%}
   {% include archive-single.html %}
 {%- endfor %}
@@ -52,10 +53,9 @@ I received my Ph.D. from the School of Cyberspace Security, HUST in June 2024, a
 
 ---
 
-## Honors and Awards {#Honors and Awards}
+## Honors and Awards
+{: #honors-and-awards }
 {%- for post in site.portfolio reversed limit:6 -%}
   {% include archive-single.html %}
 {%- endfor %}
 <p><a href="{{ '/portfolio/' | relative_url }}">See more projects →</a></p>
-
-
