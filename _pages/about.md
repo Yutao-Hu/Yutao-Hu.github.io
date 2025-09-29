@@ -55,9 +55,8 @@ I received my Ph.D. from the School of Cyberspace Security, HUST in June 2024, a
 ## 🏔️ Honors and Awards
 {: #honors-and-awards }
 
-- **Hubei Province Program for Attracting Top-Tier Postdoctoral Talent**, Hubei Province — 2024
-- **Outstanding Graduate (Class of 2024)**, Huazhong University of Science and Technology (HUST) — 2024
-- **National Graduate Scholarship (China)** — 2022
-
+- 2024 - **Hubei Province Program for Attracting Top-Tier Postdoctoral Talent**, Hubei Province 
+- 2024 - **Outstanding Graduate (Class of 2024)**, Huazhong University of Science and Technology (HUST)
+- 2022 - **China National Scholarship** 
 
 
