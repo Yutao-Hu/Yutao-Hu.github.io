@@ -38,12 +38,13 @@ main:
     url: "/#about"
   - title: "Publications"
     url: "/#publications"
-  - title: "Educations"
-    url: "/#Educations"
+  - title: "Education"          # 文案可写 Educations，但建议单数更常见
+    url: "/#education"
   - title: "Services"
-    url: "/#Services"
+    url: "/#services"
   - title: "Honors and Awards"
-    url: "/#Honors and Awards"
+    url: "/#honors-and-awards"
+
   # - title: "Blog Posts"
   #   url: "/#blog"
   # - title: "CV"
