@@ -22,16 +22,17 @@ I received my Ph.D. from the School of Cyberspace Security, HUST in June 2024, a
 
 ---
 
-## Publications {#publications}
+## Publications
+{: #publications }
+
 <small><em>(* Equal Contribution, # Corresponding Author)</em></small>
 
-{%- assign pubs = site.publications
-  | where_exp: "p", "p.short and p.short != ''"
-  | sort: "date" | reverse -%}
-{%- for p in pubs -%}
-{%- assign pdf = p.pdf | default: p.paperurl -%}
-- {{ p.short }}{%- if pdf %} [\[Paper\]]({{ pdf }}){%- endif -%}
-{%- endfor -%}
+{% assign pubs = site.publications | sort:'date' | reverse %}
+{% for p in pubs %}
+{% unless p.short == nil or p.short == '' %}
+- {{ p.short }}{% if p.pdf or p.paperurl %} [\[Paper\]]({{ p.pdf | default: p.paperurl }}){% endif %}
+{% endunless %}
+{% endfor %}
 
 ---
 
