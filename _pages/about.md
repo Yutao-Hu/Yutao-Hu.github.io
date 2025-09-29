@@ -23,17 +23,14 @@ I received my Ph.D. from the School of Cyberspace Security, HUST in June 2024, a
 ---
 
 ## Publications {#publications}
-{%- assign selected_pubs = site.publications | where_exp: "p", "p.selected == true" -%}
-{%- if selected_pubs and selected_pubs.size > 0 -%}
-  {%- for post in selected_pubs -%}
+{%- assign pubs = site.publications | sort: "date" | reverse -%}
+{%- assign pubs_by_year = pubs | group_by_exp: "p", "p.date | date: '%Y'" -%}
+{%- for year in pubs_by_year -%}
+### {{ year.name }}
+  {%- for post in year.items -%}
     {% include archive-single.html %}
   {%- endfor -%}
-{%- else -%}
-  {%- for post in site.publications reversed limit:5 -%}
-    {% include archive-single.html %}
-  {%- endfor -%}
-{%- endif -%}
-<p><a href="{{ '/publications/' | relative_url }}">View all publications →</a></p>
+{%- endfor -%}
 
 ---
 
