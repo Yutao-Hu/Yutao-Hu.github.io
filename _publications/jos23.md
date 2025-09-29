@@ -4,5 +4,5 @@ collection: publications
 date: 2023-06-01   # 用于排序，请按实际时间设置
 short: "(JOS'2023) **胡雨涛**, 王溯远, 吴月明*, 邹德清, 李文科, 金海, “基于图神经网络的切片级漏洞检测及解释方法”, 软件学报. (中文CCF-A, 入选"2024年度领跑者5000——中国精品科技期刊顶尖学术论文")"
 # 可选：如果想整行可点击，填上 pdf / 链接
-paperurl: "/files/JOS.pdf"
+paperurl: "/files/jos.pdf"
 ---
