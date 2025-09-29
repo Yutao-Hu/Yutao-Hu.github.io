@@ -22,7 +22,7 @@ I received my Ph.D. from the School of Cyberspace Security, HUST in June 2024, a
 
 ---
 
-## Publications
+## 📄 Publications
 {: #publications }
 
 <small><em>(* Equal Contribution, # Corresponding Author)</em></small>
