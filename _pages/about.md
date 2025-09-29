@@ -36,7 +36,7 @@ I received my Ph.D. from the School of Cyberspace Security, HUST in June 2024, a
 
 ---
 
-## Talks {#talks}
+## Educations {#Educations}
 {%- for post in site.talks reversed limit:5 -%}
   {% include archive-single.html %}
 {%- endfor %}
@@ -44,7 +44,7 @@ I received my Ph.D. from the School of Cyberspace Security, HUST in June 2024, a
 
 ---
 
-## Teaching {#teaching}
+## Services {#Services}
 {%- for post in site.teaching reversed limit:5 -%}
   {% include archive-single.html %}
 {%- endfor %}
@@ -52,21 +52,10 @@ I received my Ph.D. from the School of Cyberspace Security, HUST in June 2024, a
 
 ---
 
-## Portfolio {#portfolio}
+## Honors and Awards {#Honors and Awards}
 {%- for post in site.portfolio reversed limit:6 -%}
   {% include archive-single.html %}
 {%- endfor %}
 <p><a href="{{ '/portfolio/' | relative_url }}">See more projects →</a></p>
 
----
 
-## Blog {#blog}
-{%- for post in site.posts limit:5 -%}
-  {% include archive-single.html %}
-{%- endfor %}
-<p><a href="{{ '/year-archive/' | relative_url }}">All posts →</a></p>
-
----
-
-## CV {#cv}
-You can find my full **CV** here: <a href="{{ '/cv/' | relative_url }}">CV →</a>
