@@ -22,9 +22,8 @@ I received my Ph.D. from the School of Cyberspace Security, HUST in June 2024, a
 
 ---
 
-## 📑 Publications
+## Publications
 {: #publications }
-(* *Equal Contribution*, # *Corresponding Author*)
 
 {%- assign pubs = site.publications
   | where_exp: "p", "p.short and p.short != ''"
