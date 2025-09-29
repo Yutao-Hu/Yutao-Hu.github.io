@@ -30,7 +30,8 @@ I received my Ph.D. from the School of Cyberspace Security, HUST in June 2024, a
   | sort: "date" | reverse -%}
 
 {%- for p in pubs -%}
-- {%- if p.paperurl -%}[{{ p.short }}]({{ p.paperurl }}){%- else -%}{{ p.short }}{%- endif -%}
+{%- assign pdf = p.pdf | default: p.paperurl -%}
+- {{ p.short }}{%- if pdf %} [\[Paper\]]({{ pdf }}){%- endif -%}
 {%- endfor -%}
 
 ---
