@@ -18,14 +18,17 @@ I received my Ph.D. from the School of Cyberspace Security, HUST in June 2024, a
 - Large Language Models (LLMs)  
 - Software Engineering **for/with** AI  
 
-💌 **Contact:** yutaohu@hust.edu.cn
+💌 **Contact** yutaohu@hust.edu.cn
 
 ---
+
 ## 🎏 News
+
 *[2025.10]* Our paper "CentSCA：基于中心性分析的C/C++软件成分分析方法" is accepted by《计算机学报》！
 
 *[2025.8]* Our paper "VulSCA: A Community-Level SCA Approach for Accurate C/C++ Supply Chain Vulnerability Analysis" is accepted by **NDSS 2026**！
 
+---
 
 ## 📄 Publications
 {: #publications }
