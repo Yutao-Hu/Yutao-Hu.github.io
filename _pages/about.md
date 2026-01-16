@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow at Nanyang Technological University (NTU), working with [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). In addition, I am a Postdoctoral Researcher at Huazhong University of Science and Technology (HUST), jointly supervised by [Prof. Deqing Zou](http://faculty.hust.edu.cn/zoudeqing/zh_CN/index.htm), [Prof. Ruixuan Li](https://idc.hust.edu.cn/rxli/chinese/index.htm), and [Prof. Cai Fu](http://faculty.hust.edu.cn/fucai/zh_CN/more/1623241/jsjjgd/index.htm).
+I am a Research Fellow at Nanyang Technological University (NTU), working with [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). Before that, I was a Postdoctoral Researcher at Huazhong University of Science and Technology (HUST), jointly supervised by [Prof. Deqing Zou](http://faculty.hust.edu.cn/zoudeqing/zh_CN/index.htm), [Prof. Ruixuan Li](https://idc.hust.edu.cn/rxli/chinese/index.htm), and [Prof. Cai Fu](http://faculty.hust.edu.cn/fucai/zh_CN/more/1623241/jsjjgd/index.htm).
 
 I received my Ph.D. from the School of Cyberspace Security, HUST in June 2024, advised by [Prof. Deqing Zou](http://faculty.hust.edu.cn/zoudeqing/zh_CN/index.htm) and [Assoc. Prof. Yueming Wu](https://wu-yueming.github.io/). Before that, I obtained my B.S. from China University of Geosciences (Wuhan) in 2019, mentored by [Prof. Jun Song](https://grzy.cug.edu.cn/songjun/zh_CN/index.htm).
 
@@ -23,6 +23,7 @@ I received my Ph.D. from the School of Cyberspace Security, HUST in June 2024, a
 ---
 
 ## 🎏 News
+*[2026.1]* Our paper "Eler: Ensemble Learning-based Automated Verification of Code Clones" is accepted by **TSE 2026**！
 
 *[2025.12]* Our paper "VulDeNoise: Outlier Detection to Reduce Label Noises for Effective Vulnerability Detection" is accepted by **TOSEM 2026**！
 
